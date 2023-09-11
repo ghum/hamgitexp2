@@ -1,1 +1,3 @@
-Dies ist ein Übungs-Direktory fuer gitgit 
+Dies ist ein Übungs-Direktory fuer git
+
+Praktisch
