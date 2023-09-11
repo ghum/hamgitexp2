@@ -1,3 +1,6 @@
 Dies ist ein Übungs-Direktory fuer git
 
-Praktisch
+das ist super praktisch
+- nase
+- auge
+
